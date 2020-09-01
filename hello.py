@@ -1,3 +1,4 @@
+# hi, this is comment
 print("hello python & git rock")
 print("TEST")
 print("edit1")
